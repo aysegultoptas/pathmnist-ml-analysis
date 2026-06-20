@@ -67,7 +67,10 @@ pathmnist-ml-analysis/
 outputs/
 ├── features/                 # Adım 1 çıktısı: Ölçeklenmiş matrisler (.npz) ve seçilen indeksler
 └── results/                  # Adım 2 çıktısı: Raporlar (.csv), eğitilmiş modeller (.pkl) ve grafikler
-📦 Kurulum ve Çalıştırma
+
+---
+
+## 📦 Kurulum ve Çalıştırma
 1. Bağımlılıkların Yüklenmesi
 Gerekli tüm kütüphaneleri sanal ortamınıza indirmek için terminalde aşağıdaki komutu çalıştırın:
 
