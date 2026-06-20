@@ -55,7 +55,6 @@ Seçilen alt kümelerin tamamı (Tüm Öznitelikler, Pearson, CFS, LASSO, PSO) a
 ## 📁 Klasör Yapısı
 
 Projenin kök dizininde yer alan mimari yapı şu şekildedir:
-```text
 pathmnist-ml-analysis/
 ├── feature_extraction.py     # Adım 1: Veri indirme, artırma, öznitelik çıkarma ve seçim kodları
 ├── classify.py               # Adım 2: Model eğitimi, test etme, kaydetme ve metrik analiz kodları
